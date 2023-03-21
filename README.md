@@ -1,4 +1,4 @@
-# ASC Media Hash List (ASC MHL) – Specification &amp; Other Files
+# ASC Media Hash List (ASC MHL) – Specification
 
 > This repository is the home of the ASC Media Hash List (ASC MHL) specification and related documents. The specification is developed by the Advanced Data Management Subcommittee of the ASC Motion Imaging Technology Council (MITC) at the [American Society of Cinematographers](https://theasc.com/) (ASC).
 
