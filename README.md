@@ -21,7 +21,7 @@ The ASC MHL uses common checksum methods for hashing files and folders, specifie
 
 ### XSD Schema
 
-* ASC MHL Schema Definition: [`./xsd`](https://github.com/ascmitc/mhl/tree/master/xsd) folder in the [https://github.com/ascmitc/mhl](https://github.com/ascmitc/mhl)) repository
+* ASC MHL Schema Definition: [`./xsd`](https://github.com/ascmitc/mhl/tree/master/xsd) folder in the [https://github.com/ascmitc/mhl](https://github.com/ascmitc/mhl) repository
 
 ## External Resources 
 
